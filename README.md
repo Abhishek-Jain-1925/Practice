@@ -24,6 +24,8 @@ Used Commands to Perform Mentioned Task are as Follows-
 20) vi file1.txt - To create File and open it in Terminal.
 21) git stash list - To get list of stashed changes.
 22) ls - To List the Files and Subdiectories.
+23) git branch -D BRANCH_NAME - Forcefully Delete branch locally.
+24) git branch -d BRANCH_NAME - locally delete unmerged file.
 
 Above Commands Handled and Shown on Repo- 
 https://github.com/Abhishek-Jain-1925/Practice
